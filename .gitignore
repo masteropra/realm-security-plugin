@@ -1,0 +1,38 @@
+# Build artifacts
+/target/
+*.class
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Generated files
+/bin/
+/gen/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# User-specific files
+.project
+.classpath
+.settings/
+
+# Local configuration files
+/config.yml
+
+# Maven-specific files (if using Maven)
+/target/
+
+# Gradle-specific files (if using Gradle)
+/build/
+
+# Logs and data directories
+/logs/
+/data/
+￼Enter
